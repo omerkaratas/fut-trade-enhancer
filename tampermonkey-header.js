@@ -19,14 +19,11 @@ module.exports = {
       "ea2.com",
       "futwiz.com",
       "futbin.com",
-      "amazonaws.com",
-      "futbin.org",
-      "futhelpers.com",
-      "on.aws",
+      "futbin.org"
     ],
     updateURL:
-      "https://github.com/ckalgos/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
+      "https://github.com/omerkaratas/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
     downloadURL:
-      "https://github.com/ckalgos/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
+      "https://github.com/omerkaratas/fut-trade-enhancer/releases/latest/download/fut-trade-enhancer.user.js",
   },
 };
